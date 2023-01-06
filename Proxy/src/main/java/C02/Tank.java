@@ -27,6 +27,8 @@ public class Tank implements Movable {
     public static void main(String[] args) {
         //new Tank().move();
 
+        System.getProperties().put("jdk.proxy.ProxyGenerator.saveGeneratedFiles","true");
+
        Tank tank = new Tank();
        Movable movable = (Movable) Proxy.newProxyInstance(Tank.class.getClassLoader(), new Class[]{Movable.class}, new InvocationHandler() {
            public void before(){
