@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7c9f2e9-91ff-41e8-8fcd-8817acee8cd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/CashContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/CashNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/CashRebate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/ICashSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +54,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -127,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672974353561</updated>
       <workItem from="1672974354671" duration="5538000" />
-      <workItem from="1672996624025" duration="8263000" />
+      <workItem from="1672996624025" duration="9991000" />
     </task>
     <task id="LOCAL-00001" summary="学习：静态代理、动态代理">
       <created>1672978984290</created>
@@ -150,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673085473060</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="学习：策略模式，归根结底还是多态/继承的使用。使用上下文对象创建子类对象，然后执行不同的算法。">
+      <created>1673091038477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673091038477</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +172,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="学习：静态代理、动态代理" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习：静态代理、动态代理" />
+    <MESSAGE value="学习：策略模式，归根结底还是多态/继承的使用。使用上下文对象创建子类对象，然后执行不同的算法。" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习：策略模式，归根结底还是多态/继承的使用。使用上下文对象创建子类对象，然后执行不同的算法。" />
   </component>
 </project>
