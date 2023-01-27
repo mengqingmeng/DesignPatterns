@@ -1,5 +1,7 @@
 # 设计模式学习
 
+## Thread 多线程
+
 ## Proxy 代理模式
 
 ## Factory 基础工厂模式
